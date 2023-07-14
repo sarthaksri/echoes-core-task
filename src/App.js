@@ -1,12 +1,12 @@
 import React from 'react';
 import Navbar from './Components/Navbar';
-import Team from './Components/Team';
+import CoreTeam from './Components/CoreTeam';
 
 function App() {
   return (
    <>
-   <Navbar/>
-   <Team />
+  <Navbar />
+   <CoreTeam />
    </>
   );
 }
