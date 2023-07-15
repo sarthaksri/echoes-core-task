@@ -5,6 +5,7 @@ import img2 from '../Images/team-1.jpg';
 function Team() {
   return (
     <div className={styles1.container}>
+      <h1>ECHOES TEAM</h1>
       <div class={styles1.card}>
         <img src={img2} alt="President" />
         Dr Bhullar
